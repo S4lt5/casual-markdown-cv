@@ -23,7 +23,7 @@ mobile: 856-220-4426
 * Highest individual scorer in the CISA President's Cup in my organization for five consecutive years.
 * Helped lead the first non-DoD/non-law-enforcement team to reach the President's Cup finals since the competition's inception.
 * Awarded the Homeland Security Secretary's Meritorious Service Silver Medal.
-* Named inventor on 6 cybersecurity patents.
+
 
 ## Working Experience
 
@@ -43,6 +43,7 @@ mobile: 856-220-4426
 * Conducted adversary emulation during long-duration, no-notice "Silent Shield" operations.
 * Sole operator responsible for obtaining and maintaining access during long-duration adversary emulation operations; FY24 access activities generated sufficient engagement objectives to satisfy team KPIs through FY26.
 * Highest CISA individual scorer in the CISA President's Cup across all years of participation.
+* Received Meritorious Service Silver Medal and CISA Innovation Award in my inaugural year at the orgnization.
 
 #### Naval Information Warfare Center Pacific (Development Lead, 2009/01 - 2022/01)
 
@@ -58,9 +59,7 @@ mobile: 856-220-4426
 * Offensive Security Certified Expert (OSCE3): OSEP, OSED, OSWE
 * Bachelor of Science, Computer Science (2018), University of Illinois at Springfield
 
-## Technical Skills
+## Misc
 
-* Offensive Security: Penetration Testing, Red Team Operations, Exploit Development, Adversary Emulation
-* Vulnerability Research: CVE Discovery, Responsible Disclosure, Reverse Engineering
-* Development: Security Tooling, CI/CD Pipelines, DevSecOps, GenAI-Assisted Automation
-* Platforms: Cloud Infrastructure, Federal Networks, Enterprise Environments
+* Named inventor on 6 cybersecurity patents.
+* 
