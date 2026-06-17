@@ -11,7 +11,7 @@ mobile: 856-220-4426
 
 ## Executive Summary
 
-* Security engineer and vulnerability researcher with 15+ years of experience spanning Amazon, CISA, and the Department of Defense.
+* Security engineer and vulnerability researcher with 15+ years of experience spanning Startups, Big Tech, CISA, and the Department of Defense.
 * Developed offensive security tooling and led adversary emulation and penetration testing operations across large-scale enterprise and federal environments.
 * Specialized in exploit development, vulnerability discovery, and obtaining initial access for red team operations.
 * Proven track record across enterprise, federal, and cloud environments.
