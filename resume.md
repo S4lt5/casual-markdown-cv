@@ -23,9 +23,16 @@ mobile: 856-220-4426
 * Highest individual scorer in the CISA President's Cup in my organization for five consecutive years.
 * Helped lead the first non-DoD/non-law-enforcement team to reach the President's Cup finals since the competition's inception.
 * Awarded the Homeland Security Secretary's Meritorious Service Silver Medal.
-
+* Lead inventor on 6 cybersecurity patents.
 
 ## Working Experience
+
+#### Corridor (Security Engineer, 2026 - Present)
+* Own company's security program, including application security, hardening, compliance, bug bounty, and penetration testing.
+* Partner directly with customer security teams to understand operational pain points and steer product capabilities toward measurable security outcomes.
+* Perform continuous security assessment of platform architecture and application code, identifying vulnerabilities and driving remediation.
+* Lead enterprise compliance initiatives and customer security reviews.
+* Serve as the primary security subject matter expert across engineering, product, and customer-facing functions.
 
 #### Amazon (Security Engineer, 2025 - 2026)
 
@@ -59,7 +66,4 @@ mobile: 856-220-4426
 * Offensive Security Certified Expert (OSCE3): OSEP, OSED, OSWE
 * Bachelor of Science, Computer Science (2018), University of Illinois at Springfield
 
-## Misc
 
-* Named inventor on 6 cybersecurity patents.
-* 
