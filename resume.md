@@ -42,7 +42,7 @@ mobile: 856-220-4426
 * Conducted vulnerability research resulting in more than 30 published CVEs and coordinated disclosure efforts with vendors.
 * Conducted adversary emulation during long-duration, no-notice "Silent Shield" operations.
 * Sole operator responsible for obtaining and maintaining access during long-duration adversary emulation operations; FY24 access activities generated sufficient engagement objectives to satisfy team KPIs through FY26.
-* Highest individual scorer in the CISA President's Cup across all years of participation.
+* Highest CISA individual scorer in the CISA President's Cup across all years of participation.
 
 #### Naval Information Warfare Center Pacific (Development Lead, 2009/01 - 2022/01)
 
