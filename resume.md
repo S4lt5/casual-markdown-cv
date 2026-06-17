@@ -27,7 +27,7 @@ mobile: 856-220-4426
 
 ## Working Experience
 
-#### Amazon (Security Engineer, 2025/01 - Present)
+#### Amazon (Security Engineer, 2025 - 2026)
 
 * Ranked #1 on the all-time Stores Security exploit leaderboard, with multiple entries in the all-time Top 10.
 * Received AppSec's Best Critical Exploit with Business Impact award.
@@ -55,9 +55,8 @@ mobile: 856-220-4426
 
 ## Education & Qualifications
 
-* Offensive Security Certified Expert 3 (OSCE3): OSEP, OSED, OSWE
-* Bachelor of Science, Computer Science (2018)
-* University of Illinois at Springfield
+* Offensive Security Certified Expert (OSCE3): OSEP, OSED, OSWE
+* Bachelor of Science, Computer Science (2018), University of Illinois at Springfield
 
 ## Technical Skills
 
