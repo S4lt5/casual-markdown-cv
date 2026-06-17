@@ -30,10 +30,10 @@ mobile: 856-220-4426
 #### Amazon (Security Engineer, 2025 - 2026)
 
 * Ranked #1 on the all-time Stores Security exploit leaderboard, with multiple entries in the all-time Top 10.
-* Received AppSec's Best Critical Exploit with Business Impact award.
+* Received AppSec's "Best Critical Exploit with Business Impact" award.
 * Discovered multiple critical vulnerabilities and third-party CVEs impacting production systems.
 * Performed penetration testing across large-scale Amazon services and infrastructure.
-* Built and deployed the organization's top-performing vulnerability discovery platform, leveraging deterministic analysis and GenAI-assisted techniques to uncover critical vulnerabilities at scale.
+* Built top-performing vulnerability discovery tooling, leveraging deterministic analysis and GenAI-assisted techniques to uncover critical vulnerabilities at scale.
 
 #### Cybersecurity and Infrastructure Security Agency (Rapid Action Force Engineer - Offensive Security, 2022/01 - 2025/01)
 
