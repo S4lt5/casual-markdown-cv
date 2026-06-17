@@ -18,11 +18,11 @@ mobile: 856-220-4426
 
 ## Selected Impact
 
-* Received Amazon's Best Critical Exploit with Business Impact award.
+* Received Amazon Stores' "Best Critical Exploit with Business Impact" award.
 * Ranked #1 on Amazon Stores Security's all-time exploit leaderboard.
-* Highest individual scorer in the CISA President's Cup for five consecutive years.
+* Highest individual scorer in the CISA President's Cup in my organization for five consecutive years.
 * Helped lead the first non-DoD/non-law-enforcement team to reach the President's Cup finals since the competition's inception.
-* Awarded the Secretary's Meritorious Service Silver Medal.
+* Awarded the Homeland Security Secretary's Meritorious Service Silver Medal.
 * Named inventor on 6 cybersecurity patents.
 
 ## Working Experience
