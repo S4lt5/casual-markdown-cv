@@ -35,7 +35,7 @@ mobile: 856-220-4426
 * Performed penetration testing across large-scale Amazon services and infrastructure.
 * Built top-performing vulnerability discovery tooling, leveraging deterministic analysis and GenAI-assisted techniques to uncover critical vulnerabilities at scale.
 
-#### Cybersecurity and Infrastructure Security Agency (Rapid Action Force Engineer - Offensive Security, 2022/01 - 2025/01)
+#### Cybersecurity and Infrastructure Security Agency (Rapid Action Force Engineer - Offensive Security, 2022-2025)
 
 * Performed large-scale penetration testing of Federal Civilian Executive Branch assets covering more than 100,000 exposed application instances.
 * Developed cloud-based scanning infrastructure improving assessment performance by 7×.
@@ -45,7 +45,7 @@ mobile: 856-220-4426
 * Highest CISA individual scorer in the CISA President's Cup across all years of participation.
 * Received Meritorious Service Silver Medal and CISA Innovation Award in my inaugural year at the orgnization.
 
-#### Naval Information Warfare Center Pacific (Development Lead, 2009/01 - 2022/01)
+#### Naval Information Warfare Center Pacific (Principal SWE, 2009-2022)
 
 * Led modernization of CI/CD pipelines, transitioning development programs to centrally governed enterprise pipelines.
 * Led development of the CAMO deceptive cyber system from research prototype through production readiness.
